@@ -1,7 +1,7 @@
 
 
 
-package Day5_Inharitance.Super_keyword;
+package DAY5.Super_keyword3;
 
 class BankAccount3 {
     String AccountHolder;

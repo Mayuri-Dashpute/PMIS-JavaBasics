@@ -1,4 +1,4 @@
-package Day5_Inharitance;
+package DAY5;
 interface Mother{
     void msg();
 }

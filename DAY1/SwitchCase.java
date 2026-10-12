@@ -1,29 +1,7 @@
-/*import java.util.*;
-public class todoq {
-    public static void main(String args[]){
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Enter num1: ");
-    int num1 = sc.nextInt();
-    System.out.println("Enter num2: ");
-     int num2 = sc.nextInt();
-    float sum = num1 + num2;
-     System.out.println(sum);
-    }
-}*/
+package DAY1;
 
-/*import java.util.*;
-public class todoq {
-    public static void main(String args[]){
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Enter temp in ferenheit: ");
-    int f = sc.nextInt();
-    int c = (f-32)* 5/9;
-     System.out.println(c);
-    }
-}*/
-
-/*import java.util.*;
-public class todoq {
+import java.util.*;
+public class SwitchCase {
     public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter month number: ");
@@ -70,22 +48,5 @@ public class todoq {
         break;
     
     }
-    }
-}*/
-
-import java.util.*;
-public class todoq {
-    public static void main(String args[]){
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Enter num1: ");
-    int a = sc.nextInt();
-    System.out.println("Enter num2: ");
-     int b = sc.nextInt();
-     a = a+b;
-     b = a-b;
-     a = a-b;
-     System.out.println(a);
-     System.out.println(b);
-    
     }
 }

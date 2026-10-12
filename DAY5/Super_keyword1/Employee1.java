@@ -1,4 +1,4 @@
-package Day5_Inharitance.Super_keyword;
+package DAY5.Super_keyword1;
 class Manager{
  double salary = 60000;
 }

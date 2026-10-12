@@ -1,4 +1,4 @@
-package Day5_Inharitance;
+package DAY5;
 class Animal{
 void eat(){
     System.out.println("This Animal eats food");

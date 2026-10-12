@@ -1,4 +1,4 @@
-package Day5_Inharitance;
+package DAY5;
 class Device{
     void poweron(){
         System.out.println("device power on");

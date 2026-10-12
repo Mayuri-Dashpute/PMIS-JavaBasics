@@ -1,4 +1,4 @@
-package Day5_Inharitance.Super_keyword;
+package DAY5.Super_keyword5;
 
 class Employee {
     String name;

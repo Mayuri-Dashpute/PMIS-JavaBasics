@@ -1,4 +1,4 @@
-package Day5_Inharitance;
+package DAY5;
 class Shape{
     String color = "Red";
 

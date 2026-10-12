@@ -1,4 +1,4 @@
-package Day5_Inharitance.Super_keyword;
+package DAY5.Super_keyword2;
 
 class Animal2 {
    void eat(){
