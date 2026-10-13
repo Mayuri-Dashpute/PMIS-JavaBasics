@@ -1,4 +1,4 @@
-package DAY7;
+package DAY7.Exception_Handling;
 
 public class MultipleCatch {
     public static void main(String[] args) {
