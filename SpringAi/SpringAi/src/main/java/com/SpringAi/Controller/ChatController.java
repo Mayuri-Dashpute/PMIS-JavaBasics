@@ -20,7 +20,7 @@ public class ChatController {
 
     @GetMapping("/chat")
     public ResponseEntity<String> chat(
-            @RequestParam(value = "g", required = true) String q) {
+            @RequestParam(value = "q", required = true) String q) {
 
         String response = chatClient.prompt()
                 .user(q)
